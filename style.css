@@ -76,7 +76,7 @@ th, td {
   padding: 0.5rem;
 }
 .profile-image {
-  width: 300px;       /* ここを変えると大きさ調整できます */
+  width: 150px;       /* ここを変えると大きさ調整できます */
   max-width: 100%;    
   height: auto;
   display: block;

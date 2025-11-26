@@ -75,3 +75,12 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+.profile-image {
+  width: 300px;       /* ここを変えると大きさ調整できます */
+  max-width: 100%;    
+  height: auto;
+  display: block;
+  margin: 16px 0;
+  border-radius: 8px; /* いらなければこの行は消してOK */
+}
+

@@ -77,7 +77,7 @@ th, td {
 }
 
 .profile-image {
-  width: 150px;       /* ここを変えると大きさ調整できます */
+  width: 250px;       /* ここを変えると大きさ調整できます */
   max-width: 100%;    
   height: auto;
   display: block;
